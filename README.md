@@ -165,6 +165,10 @@ On FreeBSD:
 
     pkg install hs-ShellCheck
 
+On macOS with [MacPorts](https://www.macports.org/):
+
+   port install shellcheck
+
 On OS X with homebrew:
 
     brew install shellcheck
